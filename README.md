@@ -10,3 +10,12 @@ Also, In War Thunder, aircraft, attack helicopters, ground forces and naval vess
 
 ***Do I need to buy the game and/or pay a subscription in order to play War Thunder?***
 *You are free to download and play the game right away without any restrictions or subscription fees.*
+
+
+***How many players are able to play together?***
+*In most game modes, the maps are designed for 32 players split into two teams. In certain events, the total number of players may reach 64 people. You can read more about the allocation of players among teams in our article about matchmaking.*
+
+
+**Types of vehichles in warthunder**
+*In Warthunder there are over 2,000 vehichles, with those 2,000 vehichles they are divided into 4 technics. Aviation, Helicopters, Ground Vehichles and Naval Forces.
+
