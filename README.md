@@ -6,5 +6,7 @@ Also, In War Thunder, aircraft, attack helicopters, ground forces and naval vess
 
 ***What is War Thunder?***
 *War Thunder is the largest free-to-play multiplayer online game featuring military vehicles from the early 20th century until present time. Aviation, ground vehicles, and naval forces fight together in one game and even in one battle, just as the real-life battles were fought. The appearance and characteristics of the vehicles in War Thunder are historically accurate, and their damage models are physically based.*
+
+
 ***Do I need to buy the game and/or pay a subscription in order to play War Thunder?***
 *You are free to download and play the game right away without any restrictions or subscription fees.*
