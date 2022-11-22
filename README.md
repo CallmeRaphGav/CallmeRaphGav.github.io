@@ -1,4 +1,9 @@
 # Welcome to CallmeRaphGav.github.io
+
+***What are planes in WWII***
+-**Thus, the basic roles that aircraft would play in modern war were presaged in World War I: reconnaissance, air superiority, tactical ground support, and strategic bombing.**
+-**Combat aircraft, or "Warplanes", are divided broadly into multi-role, fighters, bombers, attackers, and electronic warfare support. Variations exist between them, including fighter-bombers, such as the MiG-23 ground-attack aircraft and the Soviet Ilyushin Il-2 Shturmovik.**
+
 **Republic P-47 Thunderbolt**
 
 The Republic P-47 Thunderbolt is a World War II-era fighter aircraft produced by the American aerospace company Republic Aviation from 1941 through 1945. Its primary armament was eight .50-caliber machine guns, and in the fighter-bomber ground-attack role it could carry 5-inch rockets or a bomb load of 2,500 lb (1,100 kg). When fully loaded, the P-47 weighed up to 8 tons, making it one of the heaviest fighters of the war.
@@ -54,3 +59,46 @@ During the Italian campaign, the "1º Grupo de Caça da Força Aérea Brasileira
 Eight .50 in (12.7 mm) M2 Browning machine guns (3400 rounds)
 Up to 2,500 lb (1,100 kg) of bombs
 Ten 5 in (127 mm) HVAR unguided rockets
+
+**Curtiss-Wright XP-55 Ascender**
+
+**The Curtiss-Wright XP-55 Ascender (company designation CW-24) is a 1940s United States prototype fighter aircraft built by Curtiss-Wright. Along with the Vultee XP-54 and Northrop XP-56, it resulted from United States Army Air Corps proposal R-40C issued on 27 November 1939 for aircraft with improved performance, armament, and pilot visibility over existing fighters; it specifically allowed for unconventional aircraft designs. An unusual design for its time, it had a canard configuration, a rear-mounted engine, swept wings, and two vertical tails. Because of its pusher design, it was sarcastically referred to as the "Ass-ender".[1] Like the XP-54, the Ascender was designed for the Pratt & Whitney X-1800 engine, but was re-designed after that engine project was canceled. It was also the first Curtiss fighter aircraft to use tricycle landing gear.**
+
+**Design and development**
+
+*June 1940, the Curtiss-Wright company received an Army contract for preliminary engineering data and a powered wind tunnel model. The designation P-55 was reserved for the project. The USAAC was dissatisfied with the results of these tests. Accordingly, Curtiss-Wright built a flying full-scale model they designated CW-24B. The flying testbed was powered by a 275 hp (205 kW) Menasco C68-5 inline engine. It had a fabric-covered, welded steel tube fuselage with a wooden wing. The undercarriage was non-retractable.*
+[wiki/File:EL-2003-00004.jpg](https://en.wikipedia.org/wiki/File:EL-2003-00004.jpg)
+
+*July 1942, the United States Army Air Forces issued a contract for three prototypes under the designation XP-55. Serial numbers were 42-78845 through 42-78847. During this time, the Pratt & Whitney X-1800 H-block sleeve valve engine was delayed, and was eventually canceled. Curtiss decided to switch to the 1,000 hp (750 kW) Allison V-1710 (F16) liquid-cooled inline engine because of its proven reliability. Armament was to be two 20 mm (0.79 in) cannon and two 0.50 in (12.7 mm) machine guns. During the mock-up phase, engineers switched to the 1,275 hp (951 kW) V-1710-95. The 20 mm cannons were also replaced by 0.50 in machine guns.*
+*One feature of the XP-55 was a propeller jettison lever inside the cockpit to prevent the pilot from hitting the propeller during bailout. The jettison device was invented by W. Jerome Peterson while working as a design engineer for Curtiss-Wright.*
+
+**Operational history**
+
+**November 1943, test pilot Harvey Gray, flying the first XP-55 (S/N 42-78845), was testing the aircraft's stall performance at altitude. Suddenly, the XP-55 inverted into an uncontrolled descent. The pilot was unable to right the airplane, and it fell out of control for 16,000 ft (4,900 m) before Gray was able to parachute to safety. The aircraft was destroyed.**
+https://en.wikipedia.org/wiki/File:Curtiss_XP-55_following_crash.jpg
+
+*The performance of the XP-55 was inferior to conventional fighter aircraft. Sealing its fate, by 1944, jet-powered fighters were in development; that terminated development of the XP-55.*
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Air_Zoo_December_2019_016_%28Curtiss_XP-55_Ascender%29.jpg
+
+**General characteristics**
+
+**Crew**: One (pilot)
+**Length**: 29 ft 7 in (9.02 m)
+**Wingspan**: 40 ft 7 in (12.37 m)
+**Height**: 10 ft 0 in (3.05 m)
+**Wing area**: 235 sq ft (21.8 m2)
+**Empty weight**: 6,354 lb (2,882 kg)
+**Gross weight**: 7,710 lb (3,497 kg)
+**Max takeoff weight**: 7,930 lb (3,597 kg)
+**Powerplant**: 1 × Allison V-1710-95 liquid-cooled V12 engine, 1,275 hp (951 kW)
+
+**Performance**
+
+**Maximum speed**: 390 mph (630 km/h, 340 kn) at 19,300 feet (5,900 m)
+**Range**: 635 mi (1,022 km, 552 nmi)
+**Service ceiling**: 34,600 ft (10,500 m)
+**Wing loading**: 32.8 lb/sq ft (160 kg/m2)
+**Power/mass**: 0.16 hp/lb
+
+**Armament**
+**Guns**: 4 × 0.50 in (12.7 mm) machine guns in the nose
