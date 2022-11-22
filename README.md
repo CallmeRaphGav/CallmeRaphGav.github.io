@@ -67,7 +67,7 @@ Ten 5 in (127 mm) HVAR unguided rockets
 **Design and development**
 
 *June 1940, the Curtiss-Wright company received an Army contract for preliminary engineering data and a powered wind tunnel model. The designation P-55 was reserved for the project. The USAAC was dissatisfied with the results of these tests. Accordingly, Curtiss-Wright built a flying full-scale model they designated CW-24B. The flying testbed was powered by a 275 hp (205 kW) Menasco C68-5 inline engine. It had a fabric-covered, welded steel tube fuselage with a wooden wing. The undercarriage was non-retractable.*
-[wiki/File:EL-2003-00004.jpg](https://en.wikipedia.org/wiki/File:EL-2003-00004.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3b/EL-2003-00004.jpg)
 
 *July 1942, the United States Army Air Forces issued a contract for three prototypes under the designation XP-55. Serial numbers were 42-78845 through 42-78847. During this time, the Pratt & Whitney X-1800 H-block sleeve valve engine was delayed, and was eventually canceled. Curtiss decided to switch to the 1,000 hp (750 kW) Allison V-1710 (F16) liquid-cooled inline engine because of its proven reliability. Armament was to be two 20 mm (0.79 in) cannon and two 0.50 in (12.7 mm) machine guns. During the mock-up phase, engineers switched to the 1,275 hp (951 kW) V-1710-95. The 20 mm cannons were also replaced by 0.50 in machine guns.*
 *One feature of the XP-55 was a propeller jettison lever inside the cockpit to prevent the pilot from hitting the propeller during bailout. The jettison device was invented by W. Jerome Peterson while working as a design engineer for Curtiss-Wright.*
@@ -75,7 +75,7 @@ Ten 5 in (127 mm) HVAR unguided rockets
 **Operational history**
 
 **November 1943, test pilot Harvey Gray, flying the first XP-55 (S/N 42-78845), was testing the aircraft's stall performance at altitude. Suddenly, the XP-55 inverted into an uncontrolled descent. The pilot was unable to right the airplane, and it fell out of control for 16,000 ft (4,900 m) before Gray was able to parachute to safety. The aircraft was destroyed.**
-https://en.wikipedia.org/wiki/File:Curtiss_XP-55_following_crash.jpg
+![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d9/Curtiss_XP-55_following_crash.jpg)
 
 *The performance of the XP-55 was inferior to conventional fighter aircraft. Sealing its fate, by 1944, jet-powered fighters were in development; that terminated development of the XP-55.*
 https://upload.wikimedia.org/wikipedia/commons/a/ae/Air_Zoo_December_2019_016_%28Curtiss_XP-55_Ascender%29.jpg
@@ -102,3 +102,47 @@ https://upload.wikimedia.org/wikipedia/commons/a/ae/Air_Zoo_December_2019_016_%2
 
 **Armament**
 **Guns**: 4 × 0.50 in (12.7 mm) machine guns in the nose
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/88/MWP_Vickers_HMG.JPG)
+
+**Vought F4U Corsair**
+
+*The Vought F4U Corsair is an American fighter aircraft which saw service primarily in World War II and the Korean War. Designed and initially manufactured by Chance 
+
+*Vought, the Corsair was soon in great demand; additional production contracts were given to Goodyear, whose Corsairs were designated FG, and Brewster, designated F3A.*
+
+*The Corsair was designed and operated as a carrier-based aircraft, and entered service in large numbers with the U.S. Navy in late 1944 and early 1945. It quickly became one of the most capable carrier-based fighter-bombers of World War II.[2] Some Japanese pilots regarded it as the most formidable American fighter of World War II and its naval aviators achieved an 11:1 kill ratio.[3][4] Early problems with carrier landings and logistics led to it being eclipsed as the dominant carrier-based fighter by the Grumman F6F Hellcat, powered by the same Double Wasp engine first flown on the Corsair's initial prototype in 1940.[5] Instead, the Corsair's early deployment was to land-based squadrons of the U.S. Marine Corps and U.S. Navy.[6]*
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/66/Vought_F4U_Corsair_%28USMC%29.jpg)
+
+**Marine Corps combat**
+
+From February 1943 onward, the F4U operated from Guadalcanal and ultimately other bases in the Solomon Islands. A dozen USMC F4U-1s of VMF-124, commanded by Major William E. Gise, arrived at Henderson Field (code name "Cactus") on 12 February. The first recorded combat engagement was on 14 February 1943, when Corsairs of VMF-124 under Major Gise assisted P-40s and P-38s in escorting a formation of Consolidated B-24 Liberators on a raid against a Japanese aerodrome at Kahili. Japanese fighters contested the raid and the Americans got the worst of it, with four P-38s, two P-40s, two Corsairs, and two Liberators lost. No more than four Japanese Zeros were destroyed. A Corsair was responsible for one of the kills, albeit due to a midair collision. The fiasco was referred to as the "Saint Valentine's Day Massacre".[47][48] Despite the debut, the Marines quickly learned how to make better use of the aircraft and started demonstrating its superiority over Japanese fighters. By May, the Corsair units were getting the upper hand, and VMF-124 had produced the first Corsair ace, Second Lieutenant Kenneth A. Walsh, who would rack up a total of 21 kills during the war.
+![alt text]([https://upload.wikimedia.org/wikipedia/commons/f/f5/Vought_F4U-1_Corsairs_of_VF-17_in_flight%2C_1943.jpg](https://en.wikipedia.org/wiki/File:Vought_F4U-1_Corsairs_of_VF-17_in_flight,_1943.jpg)
+
+**Fighter-bomber**
+
+Corsairs also served well as fighter-bombers in the Central Pacific and the Philippines. By early 1944, Marine pilots were beginning to exploit the type's considerable capabilities in the close-support role in amphibious landings. Charles Lindbergh flew Corsairs with the Marines as a civilian technical advisor for United Aircraft Corporation in order to determine how best to increase the Corsair's payload and range in the attack role and to help evaluate future viability of single- versus twin-engine fighter design for Vought.[58] Lindbergh managed to get the F4U into the air with 4,000 pounds (1,800 kg) of bombs, with a 2,000 pounds (910 kg) bomb on the centerline and a 1,000 pounds (450 kg) bomb under each wing.[59] In the course of such experiments, he performed strikes on Japanese positions during the battle for the Marshall Islands.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ww2_157.jpg/220px-Ww2_157.jpg)
+By the beginning of 1945, the Corsair was a full-blown "mudfighter", performing strikes with high-explosive bombs, napalm tanks, and HVARs. It proved versatile, able to operate everything from Bat glide bombs to 11.75 in (298 mm) Tiny Tim rockets.[60] The aircraft was a prominent participant in the fighting for the Palaus, Iwo Jima, and Okinawa.
+
+**Specifications (F4U-4)**
+
+**Crew**: One
+**Length**: 33 ft 8 in (10.26 m)
+**Wingspan**: 41 ft 0 in (12.50 m)
+**Height*8: 14 ft 9 in (4.50 m)
+**Wing area*8: 314 sq ft (29.17 m2)
+**Empty weight**: 9,205 lb (4,238 kg)
+**Gross weight**: 14,670 lb (6,654 kg)
+**Max takeoff weight**: 14,533 lb (6,592 kg)
+**Powerplant**: 1 × Pratt & Whitney R-2800-18W radial engine, 2,380 hp (1,770 kW)
+**Propellers**: 4-bladed
+
+**Performance**
+
+**Maximum speed**: 446 mph (717 km/h, 385 kn)
+**Cruise speed**: 215 mph (346 km/h, 187 kn)
+**Stall speed**: 89 mph (143 km/h, 77 kn)
+**Range**: 1,005 mi (1,617 km, 873 nmi)
+**Combat range**: 328 mi (528 km, 285 nmi)
+**Service ceiling**: 41,500 ft (12,600 m)
+**Rate of climb**: 4,360 ft/min (22.1 m/s)
