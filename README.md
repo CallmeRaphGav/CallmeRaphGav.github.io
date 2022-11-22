@@ -61,7 +61,7 @@ Up to 2,500 lb (1,100 kg) of bombs
 Ten 5 in (127 mm) HVAR unguided rockets
 
 **Curtiss-Wright XP-55 Ascender**
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1f/Curtiss_XP-55_Ascender_in_flight_061024-F-1234P-007.jpg)
 **The Curtiss-Wright XP-55 Ascender (company designation CW-24) is a 1940s United States prototype fighter aircraft built by Curtiss-Wright. Along with the Vultee XP-54 and Northrop XP-56, it resulted from United States Army Air Corps proposal R-40C issued on 27 November 1939 for aircraft with improved performance, armament, and pilot visibility over existing fighters; it specifically allowed for unconventional aircraft designs. An unusual design for its time, it had a canard configuration, a rear-mounted engine, swept wings, and two vertical tails. Because of its pusher design, it was sarcastically referred to as the "Ass-ender".[1] Like the XP-54, the Ascender was designed for the Pratt & Whitney X-1800 engine, but was re-designed after that engine project was canceled. It was also the first Curtiss fighter aircraft to use tricycle landing gear.**
 
 **Design and development**
