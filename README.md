@@ -148,4 +148,39 @@ By the beginning of 1945, the Corsair was a full-blown "mudfighter", performing 
 **Rate of climb**: 4,360 ft/min (22.1 m/s)
 
 **Grumman F-14 Tomcat**
-![alt text](US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg)
+![alt text](https://www.19fortyfive.com/wp-content/uploads/2022/02/F-14-Tomcat-1.jpg)
+
+**The Grumman F-14 Tomcat is an American carrier-capable supersonic, twin-engine, two-seat, twin-tail, variable-sweep wing fighter aircraft. The Tomcat was developed for the United States Navy's Naval Fighter Experimental (VFX) program after the collapse of the General Dynamics-Grumman F-111B project. The F-14 was the first of the American Teen Series fighters, which were designed incorporating air combat experience against MiG fighters during the Vietnam War.**
+
+**Background**
+Beginning in the late 1950s, the U.S. Navy sought a long-range, high-endurance interceptor to defend its carrier battle groups against long-range anti-ship missiles launched from the jet bombers and submarines of the Soviet Union. They outlined the idea of a Fleet Air Defense (FAD) aircraft with a more powerful radar and longer range missiles than the F-4 Phantom II to intercept both enemy bombers and missiles at very long range.[4] Studies into this concept led to the Douglas F6D Missileer project of 1959, but this large subsonic aircraft appeared to have little ability to defend itself once it fired its missiles, and the project was cancelled in December 1961.
+
+The name "Tomcat" was partially chosen to pay tribute to Admiral Thomas F. Connolly, as the nickname "Tom's Cat" had already been widely used within the program during development to reflect Connolly's involvement, and now the moniker was adapted into an official name in line with the Grumman tradition of giving its fighter aircraft feline names. Changing it to Tomcat associated the aircraft with the previous Grumman aircraft Wildcat, Hellcat, Tigercat, and Bearcat propeller fighters along with the Panther, Cougar, and Tiger jet fighters. Other names considered were Alley Cat (considered inappropriate due to sexual connotations) and Seacat.
+
+**Ground attack upgrades**
+In the 1990s, with the pending retirement of the Grumman A-6 Intruder, the F-14 air-to-ground program was resurrected. Trials with live bombs had been carried out in the 1980s; the F-14 was cleared to use basic iron bombs in 1992. During Operation Desert Storm of the Gulf War, most air-to-ground missions were left to LTV A-7 Corsair II, A-6 Intruder and McDonnell Douglas F/A-18 Hornet squadrons, while the F-14s focused on air defense operations. Following Desert Storm, F-14As and F-14Bs underwent upgrades to avionics and cockpit displays to enable the use of precision munitions, enhance defensive systems, and apply structural improvements. The new avionics were comparable with the F-14D; these upgraded aircraft were designated F-14A (Upgrade) and F-14B (Upgrade) respectively.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f3/F14Missile.jpg)
+By 1994, Grumman and the Navy were proposing ambitious plans for Tomcat upgrades to plug the gap between the retirement of the A-6 and the F/A-18E/F Super Hornet entering service. However, the upgrades would have taken too long to implement to meet the gap, and were priced in the billions. The U.S. Congress considered this too expensive for an interim solution.[23] A quick, inexpensive upgrade using the Low Altitude Navigation and Targeting Infrared for Night (LANTIRN) targeting pod was devised. The LANTIRN pod provided the F-14 with a forward-looking infrared (FLIR) camera for night operations and a laser target designator to direct laser-guided bombs (LGB).[31] Although LANTIRN is traditionally a two-pod system, an AN/AAQ-13 navigation pod with terrain-following radar and a wide-angle FLIR, along with an AN/AAQ-14 targeting pod with a steerable FLIR and a laser target designator, the decision was made to only use the targeting pod. The Tomcat's LANTIRN pod was altered and improved over the baseline configuration, such as a Global Positioning System/Inertial Navigation System (GPS/INS) capability to allow an F-14 to accurately locate itself. The pod was carried on the right wing glove pylon.
+
+**Specifications (F-14D)**
+General characteristics
+
+**Crew**: 2 (pilot and radar intercept officer)
+**Length**: 62 ft 9 in (19.13 m)
+**Wingspan**: 64 ft 1.5 in (19.545 m)
+**Swept wingspan**: 38 ft 2.5 in (11.646 m) swept
+**Height**: 16 ft (4.9 m)
+**Wing area**: 565 sq ft (52.5 m2) wings only
+1,008 sq ft (94 m2) effective area including fuselage
+**Airfoil**:
+Grumman (1.74)(35)(9.6)-(1.1)(30)(1.1) root
+Grumman (1.27)(30)(9.0)-(1.1)(40)(1.1) tip[209]
+**Empty weight**: 43,735 lb (19,838 kg)
+**Gross weight**: 61,000 lb (27,669 kg)
+**Max takeoff weight**: 74,350 lb (33,725 kg)
+**Fuel capacity**: 16,200 lb (7,348 kg) internal fuel; 2 × optional 267 US gal (222 imp gal; 1,010 l) / 1,756 lb (797 kg) external tanks[51]
+**Powerplant**: 2 × General Electric F110-GE-400 afterburning turbofans, 16,610 lbf (73.9 kN) thrust each dry, 28,200 lbf (125 kN) with afterburner
+
+
+
+
