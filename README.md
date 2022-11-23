@@ -146,3 +146,6 @@ By the beginning of 1945, the Corsair was a full-blown "mudfighter", performing 
 **Combat range**: 328 mi (528 km, 285 nmi)
 **Service ceiling**: 41,500 ft (12,600 m)
 **Rate of climb**: 4,360 ft/min (22.1 m/s)
+
+**Grumman F-14 Tomcat**
+![alt text](US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg)
